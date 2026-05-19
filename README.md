@@ -31,10 +31,11 @@ Este proyecto es una aplicación de comercio electrónico (Ecommerce) basada en 
 ## 📂 Estructura de Archivos del Entregable
 
 ```
-ecommerce_python/
-│
-├── ecommerce_m3.py      # Código fuente unificado con el programa principal y sus funciones.
-└── README.md            # Documentación explicativa del sistema (este archivo).
+.
+├── README.md            # Código fuente unificado con el programa principal y sus funciones.
+└── ecommerce_m3.py      # Documentación explicativa del sistema (este archivo).
+```
+```
 
 🚀 Instrucciones de Ejecución
 
@@ -42,3 +43,8 @@ Tener instalado Python 3.x.
 
 2. **Ejecución del programa:** En una terminal de comandos , navegar hasta el directorio correspondiente de la carpeta y ejecuta el comando:
    python ecommerce_m3.py
+```
+```
+   enlace a git 
+   https://github.com/kandylorena/ECOMMERCE_PYTHON.git
+   ```
